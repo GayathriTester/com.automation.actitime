@@ -6,6 +6,21 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.demoacti.base.DriverScript;
 
+/**
+ * 
+ * @Name : EnterTimePage
+ * @author : Gayathri Reviewed by : Gayathri Created Date : 06/30/2022 Updated
+ *         Date : Description :This Class is reponsible for the driver related
+ *         activities
+ *
+ * 
+ */
+
+
+
+
+
+
 public class EnterTimePage extends DriverScript {
 
 //***************************Page Elements***********************

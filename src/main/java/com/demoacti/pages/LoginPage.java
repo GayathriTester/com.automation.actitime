@@ -6,6 +6,16 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.demoacti.base.DriverScript;
 
+/**
+ * 
+ * @Name : LoginPage
+ * @author : Gayathri Reviewed by : Gayathri Created Date : 06/30/2022 Updated
+ *         Date : Description :This Class is reponsible for the driver related
+ *         activities
+ *
+ * 
+ */
+
 public class LoginPage extends DriverScript {
 //***************************************Page Elements***********************************************
 	@FindBy(id = "username") WebElement textboxUsername;
